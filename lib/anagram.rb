@@ -13,5 +13,6 @@ class Anagram
         matchWords << i
       end
     }
+    matchWords
   end
 end
